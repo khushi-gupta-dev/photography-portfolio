@@ -14,7 +14,7 @@ It features a **sidebar navigation menu**, smooth animations, and social media l
 ---
 
 ## 📂 Project Structure
-photography-portfolio/
+``` photography-portfolio/
 │── index.html # Main HTML file
 │── style.css # CSS file
 │── images/
