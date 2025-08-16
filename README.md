@@ -21,7 +21,7 @@ It features a **sidebar navigation menu**, smooth animations, and social media l
 │ ├── camera.jpeg
 │ └── preview.png
 │── README.md 
-
+```
 
 ---
 
